@@ -26,3 +26,11 @@ textarea {
     bottom: 30px;
     z-index: 1000;
   }
+
+  .iglogo {
+    width: 75px;
+    position: fixed;
+    right: 15px;
+    bottom: 100px;
+    z-index: 1000;
+  }
